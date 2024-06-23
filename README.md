@@ -3,3 +3,4 @@ This repository contains full implementations of deep learning algorithms and ne
 Topics:
 <li>Convolutional Neural Networks</li>
 <li>Regularization Algorithm</li>
+<li>Adaptive learning rate algorithms</li>
