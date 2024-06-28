@@ -4,3 +4,4 @@ Topics:
 <li>Convolutional Neural Networks</li>
 <li>Regularization Algorithm</li>
 <li>Adaptive learning rate algorithms</li>
+<li>LSTM for Textual data processing</li>
