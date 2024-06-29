@@ -3,5 +3,6 @@ This repository contains full implementations of deep learning algorithms and ne
 Topics:
 <li>Convolutional Neural Networks</li>
 <li>Regularization Algorithm</li>
+<li>Early stopping,Dropout Techniques</li>
 <li>Adaptive learning rate algorithms</li>
 <li>LSTM for Textual data processing</li>
